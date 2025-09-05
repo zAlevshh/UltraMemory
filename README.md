@@ -19,7 +19,7 @@ It helps you track and safely clean up **Instances, events, tables, and custom o
 ## 📦 Use Example
 
 ```lua
-local UltraMemory = require(script.Parent:WaitForChild(./path/to/UltraMemory);
+local UltraMemory = require(script.Parent:WaitForChild("./path/to/UltraMemory");
 
 local newMemoryInstance = UltraMemory.new();
 
