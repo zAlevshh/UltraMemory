@@ -16,7 +16,7 @@ It helps you track and safely clean up **Instances, events, tables, and custom o
 1. Copy `UltraMemory.lua` into your Roblox project (e.g. in `ServerScriptService`).  
 2. Require it in your scripts:
 
-## 📦 Use Example
+## 📜 Use Example
 
 ```lua
 local UltraMemory = require(script.Parent:WaitForChild("./path/to/UltraMemory");
